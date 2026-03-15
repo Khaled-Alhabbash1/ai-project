@@ -1,0 +1,5 @@
+openai
+Then run the commands:
+git add requirements.txt
+git commit -m "add requirements file"
+git push
